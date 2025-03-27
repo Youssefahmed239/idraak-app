@@ -1,4 +1,4 @@
-package com.example.idraak
+package com.orevan.idraak
 
 import io.flutter.embedding.android.FlutterActivity
 
